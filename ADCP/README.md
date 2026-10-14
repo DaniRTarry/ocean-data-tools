@@ -32,3 +32,7 @@ Brief description of the file types produced by VmDas during ship ADCP data acqu
 
 - The `.ENJ` and `.N1J` / `.N2J` files only exist if the corresponding user exit options are enabled.
 - The `.ENS`, `.ENX`, `.STA` and `.LTA` files all use the same RDI binary ensemble format, so the same reader can be used for all of them.
+
+- For a complete processing of the dataset CODAS (Common Ocean Data Access System) should be used. More info can be found at:
+    - https://currents.soest.hawaii.edu/docs/adcp_doc/index.html
+    - https://github.com/ocesaulo/pysadcp
