@@ -1,0 +1,113 @@
+I/O log for Teledyne RDI VmDas Version 1.46
+[2026/07/13, 10:27:05.492]: NMEA 1 - Opening serial port... Successful
+[2026/07/13, 10:27:06.164]: NMEA 2 - Opening serial port... Successful
+[2026/07/13, 10:27:06.335]: NMEA 3 - Opening serial port... Successful
+[2026/07/13, 10:27:07.507]: 
+Ocean Surveyor Broadband/Narrowband ADCP
+Teledyne RD Instruments (c) 1997-2008
+All rights reserved.
+Firmware Version: 23.19  
+
+>
+[2026/07/13, 10:27:07.507]: TS 260713 102707
+
+[2026/07/13, 10:27:07.554]: TS 260713 102707
+>
+[2026/07/13, 10:27:07.554]: 
+>
+[2026/07/13, 10:27:07.569]: CR1
+[2026/07/13, 10:27:07.632]: CR1
+[Parameters set to FACTORY defaults]
+
+>
+[2026/07/13, 10:27:07.632]: TE00000000
+[2026/07/13, 10:27:07.663]: TE00000000
+>
+[2026/07/13, 10:27:07.663]: -->Setting Bottom Track parameters...
+
+[2026/07/13, 10:27:07.663]: BP0
+[2026/07/13, 10:27:07.679]: BP0
+>
+[2026/07/13, 10:27:07.679]: TP000000
+[2026/07/13, 10:27:07.710]: TP000000
+>
+[2026/07/13, 10:27:07.710]: -->Setting Surveyor low resolution mode...
+
+[2026/07/13, 10:27:07.710]: WP0
+[2026/07/13, 10:27:07.726]: WP0
+>
+[2026/07/13, 10:27:07.726]: NP1
+[2026/07/13, 10:27:07.757]: NP1
+>
+[2026/07/13, 10:27:07.757]: -->Determining Surveyor mode...
+
+[2026/07/13, 10:27:07.757]: WP?
+[2026/07/13, 10:27:07.835]: WP?
+WP 000 -------------------------- Number of Pings
+>
+[2026/07/13, 10:27:07.835]: NP?
+[2026/07/13, 10:27:07.897]: NP?
+NP 001 -------------------------- Number of Pings
+>
+[2026/07/13, 10:27:07.897]: -->Setting profiling parameters...
+
+[2026/07/13, 10:27:07.897]: NN50
+[2026/07/13, 10:27:07.929]: NN50
+>
+[2026/07/13, 10:27:07.929]: NS800
+[2026/07/13, 10:27:07.960]: NS800
+>
+[2026/07/13, 10:27:07.960]: NF800
+[2026/07/13, 10:27:07.976]: NF800
+>
+[2026/07/13, 10:27:07.976]: ED20
+[2026/07/13, 10:27:08.007]: ED20
+>
+[2026/07/13, 10:27:08.007]: 
+-->Setting manual ping mode...
+
+[2026/07/13, 10:27:08.007]: CF?
+[2026/07/13, 10:27:08.085]: CF?
+CF 11110 ------------------------ Set Ctrl Flags {e;p;b;s;*}
+>
+[2026/07/13, 10:27:08.085]: CF 01110
+[2026/07/13, 10:27:08.116]: CF 01110
+>
+[2026/07/13, 10:27:08.116]: 
+-->Setting the sensor source...
+
+[2026/07/13, 10:27:08.116]: EZ?
+[2026/07/13, 10:27:08.210]: EZ?
+EZ 10111010 --------------------- Sensor Source {c;d;h;p;r;s;t;u}
+>
+[2026/07/13, 10:27:08.210]: EZ10222010
+[2026/07/13, 10:27:08.241]: EZ10222010
+>
+[2026/07/13, 10:27:08.241]: EA4410
+[2026/07/13, 10:27:08.272]: EA4410
+>
+[2026/07/13, 10:27:08.272]: 
+-->Disabling ADCP internal EV, EI, and EJ corrections...
+
+[2026/07/13, 10:27:08.272]: EV0
+[2026/07/13, 10:27:08.304]: EV0
+>
+[2026/07/13, 10:27:08.304]: EI0
+[2026/07/13, 10:27:08.319]: EI0
+>
+[2026/07/13, 10:27:08.319]: EJ0
+[2026/07/13, 10:27:08.350]: EJ0
+>
+[2026/07/13, 10:27:08.350]: 
+-->Setting beam radial output mode...
+
+[2026/07/13, 10:27:08.350]: EX00000
+[2026/07/13, 10:27:08.382]: EX00000
+>
+[2026/07/13, 10:27:08.585]: CS
+[2026/07/13, 10:27:08.601]: PRIMARY GGA data will be stored in the NAV field starting with ens 1
+[2026/07/13, 10:27:08.601]: PRIMARY VTG data will be stored in the NAV field starting with ens 1
+[2026/07/13, 10:27:08.601]: PRIMARY NMEA Heading data will be stored in the NAV field starting with ens 1
+[2026/07/13, 10:27:08.601]: PRIMARY NMEA Tilt data will be stored in the NAV field starting with ens 1
+[2026/07/13, 10:29:17.023]: Can't open the WinAdcp application! <C:\Program Files (x86)\RD Instruments\WinADCP\ C:\OCEANO\RDI\DATOS\2026\SOCIB_CabreraSummer26\SOCIB_CabreraSummer26005_000000.STA -M0100> The file was not found.
+[2026/07/13, 14:23:34.329]: 
