@@ -1,0 +1,126 @@
+I/O log for Teledyne RDI VmDas Version 1.46
+[2026/07/13, 07:28:04.845]: NMEA 1 - Opening serial port... Successful
+[2026/07/13, 07:28:05.470]: NMEA 2 - Opening serial port... Successful
+[2026/07/13, 07:28:05.641]: NMEA 3 - Opening serial port... Successful
+[2026/07/13, 07:28:05.688]: NMEA 3 - Receiving unrecognizable data
+[2026/07/13, 07:28:06.110]: 
+Ocean Surveyor Broadband/Narrowband ADCP
+Teledyne RD Instruments (c) 1997-2008
+All rights reserved.
+Firmware Version: 23.19  
+
+>
+[2026/07/13, 07:28:06.110]: TS 260713 072806
+
+[2026/07/13, 07:28:06.173]: TS 260713 072806
+>
+[2026/07/13, 07:28:06.173]: 
+>
+[2026/07/13, 07:28:06.173]: CR1
+[2026/07/13, 07:28:06.235]: CR1
+[Parameters set to FACTORY defaults]
+
+>
+[2026/07/13, 07:28:06.235]: TE00000000
+[2026/07/13, 07:28:06.266]: TE00000000
+>
+[2026/07/13, 07:28:06.266]: -->Setting Bottom Track parameters...
+
+[2026/07/13, 07:28:06.266]: BP1
+[2026/07/13, 07:28:06.282]: BP1
+>
+[2026/07/13, 07:28:06.282]: BX4000
+[2026/07/13, 07:28:06.313]: BX4000
+>
+[2026/07/13, 07:28:06.313]: TP000000
+[2026/07/13, 07:28:06.344]: TP000000
+>
+[2026/07/13, 07:28:06.344]: -->Setting Surveyor low resolution mode...
+
+[2026/07/13, 07:28:06.344]: WP0
+[2026/07/13, 07:28:06.360]: WP0
+>
+[2026/07/13, 07:28:06.360]: NP1
+[2026/07/13, 07:28:06.391]: NP1
+>
+[2026/07/13, 07:28:06.391]: -->Determining Surveyor mode...
+
+[2026/07/13, 07:28:06.391]: WP?
+[2026/07/13, 07:28:06.454]: WP?
+WP 000 -------------------------- Number of Pings
+>
+[2026/07/13, 07:28:06.454]: NP?
+[2026/07/13, 07:28:06.532]: NP?
+NP 001 -------------------------- Number of Pings
+>
+[2026/07/13, 07:28:06.532]: -->Setting profiling parameters...
+
+[2026/07/13, 07:28:06.532]: NN50
+[2026/07/13, 07:28:06.563]: NN50
+>
+[2026/07/13, 07:28:06.563]: NS800
+[2026/07/13, 07:28:06.579]: NS800
+>
+[2026/07/13, 07:28:06.579]: NF800
+[2026/07/13, 07:28:06.610]: NF800
+>
+[2026/07/13, 07:28:06.610]: ED20
+[2026/07/13, 07:28:06.641]: ED20
+>
+[2026/07/13, 07:28:06.641]: 
+-->Setting manual ping mode...
+
+[2026/07/13, 07:28:06.641]: CF?
+[2026/07/13, 07:28:06.719]: CF?
+CF 11110 ------------------------ Set Ctrl Flags {e;p;b;s;*}
+>
+[2026/07/13, 07:28:06.719]: CF 01110
+[2026/07/13, 07:28:06.750]: NMEA 3 - Receving correct type of data
+[2026/07/13, 07:28:06.750]: CF 01110
+>
+[2026/07/13, 07:28:06.750]: 
+-->Setting the sensor source...
+
+[2026/07/13, 07:28:06.750]: EZ?
+[2026/07/13, 07:28:06.844]: EZ?
+EZ 10111010 --------------------- Sensor Source {c;d;h;p;r;s;t;u}
+>
+[2026/07/13, 07:28:06.844]: EZ10222010
+[2026/07/13, 07:28:06.875]: EZ10222010
+>
+[2026/07/13, 07:28:06.875]: EA4410
+[2026/07/13, 07:28:06.907]: EA4410
+>
+[2026/07/13, 07:28:06.907]: 
+-->Disabling ADCP internal EV, EI, and EJ corrections...
+
+[2026/07/13, 07:28:06.907]: EV0
+[2026/07/13, 07:28:06.922]: EV0
+>
+[2026/07/13, 07:28:06.922]: EI0
+[2026/07/13, 07:28:06.938]: EI0
+>
+[2026/07/13, 07:28:06.938]: EJ0
+[2026/07/13, 07:28:06.969]: EJ0
+>
+[2026/07/13, 07:28:06.969]: 
+-->Setting beam radial output mode...
+
+[2026/07/13, 07:28:06.969]: EX00000
+[2026/07/13, 07:28:07.000]: EX00000
+>
+[2026/07/13, 07:28:07.203]: CS
+[2026/07/13, 07:28:07.219]: PRIMARY GGA data will be stored in the NAV field starting with ens 1
+[2026/07/13, 07:28:07.219]: PRIMARY VTG data will be stored in the NAV field starting with ens 1
+[2026/07/13, 07:28:07.219]: PRIMARY NMEA Heading data will be stored in the NAV field starting with ens 1
+[2026/07/13, 07:28:07.219]: PRIMARY NMEA Tilt data will be stored in the NAV field starting with ens 1
+[2026/07/13, 07:30:14.938]: Can't open the WinAdcp application! <C:\Program Files (x86)\RD Instruments\WinADCP\ C:\OCEANO\RDI\DATOS\2026\SOCIB_CabreraSummer26\SOCIB_CabreraSummer26004_000000.STA -M0100> The file was not found.
+[2026/07/13, 08:18:49.682]: NMEA Heading data is now unavailable from its primary source
+[2026/07/13, 08:18:49.682]: NMEA Tilt data is now unavailable from its primary source
+[2026/07/13, 08:18:50.557]: NMEA Heading data can now be read from its primary source
+[2026/07/13, 08:18:50.557]: NMEA Tilt data can now be read from its primary source
+[2026/07/13, 09:59:11.523]: NMEA Heading data is now unavailable from its primary source
+[2026/07/13, 09:59:11.523]: NMEA Tilt data is now unavailable from its primary source
+[2026/07/13, 09:59:11.554]: NMEA Heading data can now be read from its primary source
+[2026/07/13, 09:59:11.554]: NMEA Tilt data can now be read from its primary source
+[2026/07/13, 10:26:08.200]: 
